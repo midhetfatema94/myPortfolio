@@ -1,0 +1,19 @@
+{
+    "basic_info": {
+      "name": "Midhet Sulemani",
+      "titles": [ "iOS Developer", "Mobile Engineer", "SDE II - iOS", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "Github",
+          "url": "https://github.com/midhetfatema94",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/midhet/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    }
+  }
