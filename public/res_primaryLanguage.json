@@ -81,15 +81,27 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Heady Technologies",
+        "title": "SDE 2 - iOS",
+        "years": "July 2021 - present",
         "logo": "logoImage.png"
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Nabd - Waveline Media",
+        "title": "iOS Developer",
+        "years": "August 2018 - March 2021",
+        "logo": "logoImage.png"
+      },
+      {
+        "company": "Bluetie Global",
+        "title": "iOS Developer",
+        "years": "January 2017 - June 2018",
+        "logo": "logoImage.png"
+      },
+      {
+        "company": "Travelibro",
+        "title": "iOS Developer",
+        "years": "May 2016 - December 2016",
         "logo": "logoImage.png"
       }
     ]
