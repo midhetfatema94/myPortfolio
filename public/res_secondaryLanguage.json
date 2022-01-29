@@ -84,33 +84,13 @@
         "company": "DefOpenSource",
         "title": "Front-End Developer",
         "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
+        "logo": "logoImage.png"
       },
       {
         "company": "Serros Solutions",
         "title": "Stażystka",
         "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "logo": "logoImage.png"
       }
     ]
   }
