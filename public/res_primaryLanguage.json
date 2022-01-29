@@ -1,11 +1,10 @@
 {
     "basic_info": {
-      "description_header": "Hi 👋",
-      "description": "I am an iOS Developer who is passionate about finding the best solutions for day to day problems and realizing a vision through iOS applications. I create features and applications for products in Swift. I’ve developed apps from scratch to launch, developed features to enhance already available products for higher downloads and engagement and I’d love to work with you. Thank you 💜",
+      "description_header": "Hi",
+      "description": "I am an iOS Developer who is passionate about finding the best solutions for day to day problems and realizing a vision through iOS applications. I create features and applications for products in Swift. I’ve developed apps from scratch to launch, developed features to enhance already available products for higher downloads and engagement and I’d love to work with you.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
-        "skills": "Skills",
         "experience": "Experience"
       }
     },
