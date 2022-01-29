@@ -12,6 +12,11 @@
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/midhet/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/itsnotmidget",
+          "class": "fab fa-twitter"
         }
       ],
       "image": "myProfile.jpg"
