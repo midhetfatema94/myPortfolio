@@ -1,10 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "I am an iOS Developer who is passionate about finding the best solutions for day to day problems and realizing a vision through iOS applications. I create features and applications for products in Swift. I’ve developed apps from scratch to launch, developed features to enhance already available products for higher downloads and engagement and I’d love to work with you.",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
+        "projects": "Live App Contributions",
         "experience": "Experience"
       }
     },
@@ -26,15 +23,6 @@
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com/midhetfatema94/HabitTracker"
-      },
-      {
-        "title": "Banchar Towing App",
-        "description": "An application for an on-demand towing service for cars on the road. Completed this as a project in a hackathon I had participated in",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com/midhetfatema94/PentaBanchar"
       },
       {
         "title": "Image Filter App",
