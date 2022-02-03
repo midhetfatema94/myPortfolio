@@ -7,16 +7,21 @@ class Experience extends Component {
     if (this.props.resumeExperience && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.experience;
       var work = this.props.resumeExperience.map(function (work, i) {
+        var companyLogo = "./images/experience/" + work.logo;
         return (
           <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date={work.years}
             iconStyle={{
               background: "#AE944F",
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon = { <img 
+              alt="company logos" 
+              src= { companyLogo }
+              style={{ height: "inherit",
+                       borderRadius: "50%"
+                      }}/> 
+                    }
             key={i}
           >
             <h3
@@ -31,6 +36,12 @@ class Experience extends Component {
             >
               {work.company}
             </h4>
+            <h5
+              className="vertical-timeline-element--work"
+              style={{ textAlign: "left" }}
+            >
+              {work.years}
+            </h5>
           </VerticalTimelineElement>
         );
       });

@@ -39,25 +39,25 @@
         "company": "Heady Technologies",
         "title": "SDE 2 - iOS",
         "years": "July 2021 - present",
-        "logo": "logoImage.png"
+        "logo": "heady.jpeg"
       },
       {
         "company": "Nabd - Waveline Media",
         "title": "Mobile Engineer - iOS",
         "years": "August 2018 - March 2021",
-        "logo": "logoImage.png"
+        "logo": "nabd.jpeg"
       },
       {
         "company": "Bluetie Global",
         "title": "iOS Developer",
         "years": "January 2017 - June 2018",
-        "logo": "logoImage.png"
+        "logo": "bluetie.jpeg"
       },
       {
         "company": "Travelibro",
         "title": "iOS Developer",
         "years": "May 2016 - December 2016",
-        "logo": "logoImage.png"
+        "logo": "travelibro.jpeg"
       }
     ]
   }
