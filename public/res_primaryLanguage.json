@@ -7,11 +7,10 @@
     },
     "projects": [
       {
-        "title": "Nabd - video feed",
+        "title": "Nabd",
         "description": "Developed and integrated a major feature of a video feed which aggregates news related videos from all your subscriptions and display in a gallery like format",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/nabd.png"
         ],
         "url": "https://apps.apple.com/us/app/nbd/id569532697?ls=1"
       },
@@ -19,8 +18,8 @@
         "title": "Habit Tracker",
         "description": "An application to track your habits and guide you towards a healthy lifestyle in SwiftUI",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/habitTracker1.png",
+          "images/portfolio/habitTracker2.png"
         ],
         "url": "https://github.com/midhetfatema94/HabitTracker"
       },
@@ -28,8 +27,8 @@
         "title": "Image Filter App",
         "description": "Image Filtering application using CoreImage's built-in filter library and image processing APIs in Swift & SwiftUI",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/instaFilter1.png",
+          "images/portfolio/instaFilter2.png"
         ],
         "url": "https://github.com/midhetfatema94/InstaFilter"
       }

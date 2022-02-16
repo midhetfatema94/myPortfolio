@@ -68,7 +68,7 @@ class Experience extends Component {
                 textAlign: "center",
               }}
               icon={
-                <i className="fas fa-hourglass-start mx-auto experience-icon"></i>
+                <i className="fas fa-solid fa-laptop-code mx-auto experience-icon"></i>
               }
             />
           </VerticalTimeline>
